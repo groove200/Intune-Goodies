@@ -31,7 +31,7 @@ This profile disables the following features:
 | Allow Erase Content and Settings | False | False | |
 | Allow UI Configuration Profile Installation | False | False | |
 | Allow Cloud Private Relay | False | False | |
-| Allow Password Auto Fill | False | True | ⚠️ Will break PSSO when set to true |
+| Allow Password Auto Fill | False | True | ⚠️ Will break PSSO when set to **FALSE** |
 | Allow iTunes File Sharing | False | False | |
 
 
