@@ -2,7 +2,7 @@
 
 Scan Microsoft Entra ID and Intune for macOS devices with **duplicate registrations**, **orphaned device records**, and **Intune-side duplicates**. Identifies cleanup candidates using heuristic scoring, generates CSV reports, and creates a ready-to-run cleanup helper script.
 
-> **Blog post:** [Coming soon on allthingscloud.blog](https://allthingscloud.blog)
+> **Blog post:** [The Hidden Life of Duplicate macOS Device Records in Entra ID](https://allthingscloud.blog/duplicate-macos-device-records-entra-id/)
 
 ---
 
