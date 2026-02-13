@@ -249,7 +249,7 @@ This script is part of a broader toolkit for diagnosing Platform SSO issues on m
 
 ## Changelog
 
-See [CHANGELOG-FD.md](CHANGELOG-FD.md) for the full version history.
+See [CHANGELOG-FD.md](CHANGELOG.md) for the full version history.
 
 ---
 
