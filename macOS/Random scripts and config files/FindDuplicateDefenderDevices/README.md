@@ -1,6 +1,6 @@
 # Find-DuplicateDefenderDevices
 
-> **Blog post:** [coming soon](#)
+> **Blog post:** [Hunting Duplicate Device Records in Microsoft Defender](https://allthingscloud.blog/duplicate-device-records-microsoft-defender/)
 
 Scans Microsoft Defender for Endpoint for devices with duplicate registrations.
 
